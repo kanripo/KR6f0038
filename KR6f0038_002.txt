@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:01:37.357783
+#+DATE: 2015-08-30 20:01:39.100132
 #+TITLE: 佛說大方廣善巧方便經
 #+PROPERTY: CBETA_ID T12n0346
 #+PROPERTY: ID KR6f0038
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 346
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6f0038_T_002-0169a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《佛說大方廣善巧方便經》卷第二¶
+《佛說大方廣善巧方便經》卷第二¶
 ¶
 西天譯經三藏朝奉大夫試光祿卿¶
 傳法大師賜紫臣施護奉　詔譯¶
