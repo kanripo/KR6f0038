@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:01:38.562159
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:58
 #+TITLE: 佛說大方廣善巧方便經
 #+PROPERTY: CBETA_ID T12n0346
 #+PROPERTY: ID KR6f0038
