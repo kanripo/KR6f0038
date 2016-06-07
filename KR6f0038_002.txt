@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:01:37.357783
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:58
 #+TITLE: 佛說大方廣善巧方便經
 #+PROPERTY: CBETA_ID T12n0346
 #+PROPERTY: ID KR6f0038
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 346
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0038_T_002-0169a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《佛說大方廣善巧方便經》卷第二¶
+《佛說大方廣善巧方便經》卷第二¶
 ¶
 西天譯經三藏朝奉大夫試光祿卿¶
 傳法大師賜紫臣施護奉　詔譯¶
@@ -231,9 +230,9 @@
 　多劫已曾供養佛，
 　於諸佛所種善根，¶
 　堅固安住菩提心，
-　決定當得菩提果。」
+　決定當得菩提果。」」
 #+END_VERSE
-」¶
+¶
 
 爾時，尊者阿難白佛言：「世尊！如我意者，譬如¶
 須彌山王眾寶所成，雖種種寶有種種色，彼¶
